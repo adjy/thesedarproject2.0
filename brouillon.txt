@@ -1,0 +1,11 @@
+<!--I’m Sedar_007, I from Delmas, Haiti, Graduate at Saint-Louis de Gonzague. Coding has long been my passion. I’ve spent years learning how to create app, website. I’m skilled in web development, write some code in C++, Python. Make some game with Python. I play mobile games too, such as Call of duty mobile, Pubg mobile, Pes. I'm not a Hacker, but I would work as a hat hacker --> <br>
+
+
+aside
+textarea =c pour un champs tres gros
+<textarea rows="5" cols="100"> </textarea>
+
+type email, url, tel ,number, range, color, date, search, checkbox, radio, submit
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-88be5bef-60b6-477c-82a2-213a84acb388"></div>
